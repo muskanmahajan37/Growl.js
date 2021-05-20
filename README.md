@@ -1,2 +1,0 @@
-# Growl.js
-Growl.js
